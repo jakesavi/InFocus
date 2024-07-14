@@ -1,0 +1,4 @@
+{"Name":"StudentName",
+"Class1": {"TEST1" : "50.0", "TEST2": "75.0", "TEST3": "85"},
+"Class2": {"TEST1": "50.0", "TEST2": "85.0", "TEST3": "77"},
+"Class3": {"TEST1": "77", "TEST2": "92.0", "TEST3": "75"} }
