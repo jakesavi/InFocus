@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "openai": "^4.52.7",
     "typescript": "^5.5.3"
   }
 }

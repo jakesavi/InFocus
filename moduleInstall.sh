@@ -1,1 +1,1 @@
-sudo npm install typescript openai
+sudo npm install .
